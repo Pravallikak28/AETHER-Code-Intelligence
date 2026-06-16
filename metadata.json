@@ -1,0 +1,6 @@
+{
+  "name": "Aether Code Intelligence",
+  "description": "The architectural intelligence layer for software projects, offering interactive dependency mapping, sequence flows, architectural memory, and AI CTO predictive insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
